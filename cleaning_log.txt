@@ -1,0 +1,21 @@
+
+DATA CLEANING REPORT
+====================
+
+Original Rows : 7
+Final Rows    : 6
+
+Duplicate Rows Removed : 1
+
+Missing Values Remaining
+------------------------
+name         0
+age          0
+city         0
+join_date    0
+salary       0
+dtype: int64
+
+Column Names
+------------
+['name', 'age', 'city', 'join_date', 'salary']
