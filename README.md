@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?logo=pandas)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 # 🧹 Syntecxhub Data Cleaning Utility
 
 A Python-based Data Cleaning Utility developed during the **Syntecxhub Data Science Internship**.
